@@ -1,6 +1,6 @@
 # youtube-rabbit-hole
-Chrome extension to remove YouTube recommendations, comments, and more so you don't go down the rabbit hole again!
-
+Are you the one who want's to see a video in youtube and due to the youtube recommendations you browse youtube for hours and hours ??
+Here is the Chrome extension to remove YouTube recommendations, comments, and more so you don't go for distractions??
 ## Usage
 
 To install, head over to the [listing on the Chrome Web Store](https://chrome.google.com/webstore/detail/youtube-rabbit-hole/nlddakjbmpidooplakalfoogdincflfh/) and click "Add to Chrome". Once added, the extension lets you reduce distractions while browsing YouTube in the following ways:
